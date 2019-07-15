@@ -1,4 +1,9 @@
 package com.kirsi.sg.demoloi.common.entity;
 
-public class Demo {
+import com.kirsi.sg.demoloi.entity.BaseEntity;
+
+/**
+ * 数据库实体类
+ */
+public class Demo extends BaseEntity {
 }

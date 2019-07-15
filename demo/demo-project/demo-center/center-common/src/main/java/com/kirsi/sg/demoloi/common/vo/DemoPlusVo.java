@@ -1,4 +1,9 @@
 package com.kirsi.sg.demoloi.common.vo;
 
-public class DemoPlusVo extends DemoInfoVo {
+import java.io.Serializable;
+
+/**
+ * 增强VO
+ */
+public class DemoPlusVo extends DemoInfoVo implements Serializable {
 }

@@ -11,5 +11,11 @@
 
     <artifactId>center-common</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.kirsi.sg.demo-loi</groupId>
+            <artifactId>demo-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

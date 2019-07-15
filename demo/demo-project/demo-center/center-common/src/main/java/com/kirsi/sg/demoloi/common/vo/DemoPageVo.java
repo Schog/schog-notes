@@ -1,4 +1,9 @@
 package com.kirsi.sg.demoloi.common.vo;
 
-public class DemoPageVo {
+import java.io.Serializable;
+
+/**
+ * 分页VO
+ */
+public class DemoPageVo implements Serializable {
 }

@@ -16,4 +16,4 @@
 ## 开发计划
 * [代码生成器](/project/generator/README.md)  
 
-## [开发日志](开发日志.md)  
+## [开发日志](doc/开发日志.md)  
