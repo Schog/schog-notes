@@ -1,5 +1,5 @@
 # 代码生成器设计概要  
-##设计概要  
+## 设计概要  
     generator  
     ├──代码生成器  
     |    ├──后端代码生成  
@@ -43,10 +43,6 @@
     ├──模板变更  
 ## 已有项目参考   
 待参考项目开源协议必须为MIT、WTFPL或者其他宽松的协议  
-* (MIT)(IDEA插件)[EasyCod](https://gitee.com/makejava/EasyCode)  
-* (MIT)(注释-代码生成)[xDoc](https://gitee.com/treeleaf/xDoc)  
-* (MIT)(图形化-Apache FreeMarker)[Spring-generator](https://gitee.com/duhua/Spring-generator)
-* (MIT)(IDEA插件)[mybatis-generator](https://gitee.com/rohou/mybatis-generator)
 * (MIT)(web)[kitty-generator](https://gitee.com/liuge1988/kitty-generator)
 * (MIT)[HY-generator](https://gitee.com/luanhaoyu/crud-generator)
 
